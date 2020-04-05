@@ -1,0 +1,1 @@
+Repository for Text Mining assigment, just to textminining.ipynb file.
